@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
 <h3 align="center">Self-motivated, enthusiastic, and results-driven aspiring full-stack developer with a strong passion for building dynamic, user-centric applications. Eager to contribute to a stimulating environment that fosters learning and growth while leveraging my technical expertise to drive innovation and value for the organization.</h3>
 
-<img align="right" alt="coding" width="400px" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fhow-can-developer-improve-skill-developing-mahim-hossain&psig=AOvVaw2uFPiWmLQsM8Sg_A7W9qfL&ust=1729237438584000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDG-NH1lIkDFQAAAAAdAAAAABAE](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)">
+<img align="right" alt="coding" width="400px" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codezshubham&label=Profile%20views&color=0e75b6&style=flat" alt="codezshubham" /> </p>
 
